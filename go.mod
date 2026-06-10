@@ -1,4 +1,4 @@
-module github.com/muhammadbrilian/ewallet-proto
+module github.com/Rian-rgb/ewallet-proto
 
 go 1.25.7
 
